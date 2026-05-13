@@ -47,9 +47,9 @@ export const Wireframes = () => {
         <div className="text-center mb-14">
           <div className="text-sm font-semibold tracking-widest text-accent mb-3">UI WIREFRAMES</div>
           <h2 className="text-4xl md:text-5xl font-bold">Product screens · static data</h2>
-          <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
+          {/* <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
             Click each screen to preview the interface for every step of the claims copilot workflow.
-          </p>
+          </p> */}
         </div>
 
         {/* Tabs */}
