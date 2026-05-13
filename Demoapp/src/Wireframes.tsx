@@ -45,8 +45,8 @@ export const Wireframes = () => {
     <section className="py-24 bg-background">
       <div className="container mx-auto px-6">
         <div className="text-center mb-14">
-          <div className="text-sm font-semibold tracking-widest text-accent mb-3">UI WIREFRAMES</div>
-          <h2 className="text-4xl md:text-5xl font-bold">Product screens · static data</h2>
+          {/* <div className="text-sm font-semibold tracking-widest text-accent mb-3">UI WIREFRAMES</div> */}
+          <h2 className="text-4xl md:text-5xl font-bold">Explainable Cliams Copilot</h2>
           {/* <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
             Click each screen to preview the interface for every step of the claims copilot workflow.
           </p> */}
